@@ -58,8 +58,8 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h1>Teste DOCKERHUB</h1>
-        <p>Andre War</p>
+        <h1>Bem-vindo!</h1>
+        <p>Andre War - Teste de GitHub Actions</p>
     </div>
 </body>
 </html>

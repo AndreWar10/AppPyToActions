@@ -59,7 +59,7 @@ HTML_TEMPLATE = """
 <body>
     <div class="container">
         <h1>Teste DOCKERHUB</h1>
-        <p>Andre War</p>
+        <p>Andre War - Teste de GitHub Actions</p>
     </div>
 </body>
 </html>
